@@ -1,2 +1,2 @@
 stopwords
-punkt
+punkt==2.3.1
